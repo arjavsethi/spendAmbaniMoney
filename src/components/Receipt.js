@@ -15,7 +15,7 @@ const Receipt = () => {
         <div id="print-receit">
             <h2 >Receipt</h2>
             {receitArray.map((receit)=>{
-                return receit.count===0?"" :<Receiptitem name={receit.name} price={receit.price} count={receit.count} />
+                return receit.count===0?"" :<Receiptitem key={receit.name} name={receit.name} price={receit.price} count={receit.count} />
             })}
                  
                <h5>  {receitTotal==="$0.00"?"":("Total is "+receitTotal)}</h5>

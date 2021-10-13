@@ -110,7 +110,7 @@ const TotalState = (props) => {
     {
       name: "Jet Gulfstream G450",
       price: 17000000,
-      url: "https://i.imgur.com/TZP2OgW.jpg",
+      url: "https://i.imgur.com/rfaTKtE.jpg",
     },
 
     {
