@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/spendAmbaniMoney/static/css/main.6f23844c.chunk.css",
+    "main.js": "/spendAmbaniMoney/static/js/main.9a2cae4e.chunk.js",
+    "main.js.map": "/spendAmbaniMoney/static/js/main.9a2cae4e.chunk.js.map",
+    "runtime-main.js": "/spendAmbaniMoney/static/js/runtime-main.3db33879.js",
+    "runtime-main.js.map": "/spendAmbaniMoney/static/js/runtime-main.3db33879.js.map",
+    "static/js/2.af57b732.chunk.js": "/spendAmbaniMoney/static/js/2.af57b732.chunk.js",
+    "static/js/2.af57b732.chunk.js.map": "/spendAmbaniMoney/static/js/2.af57b732.chunk.js.map",
+    "static/js/3.21838a32.chunk.js": "/spendAmbaniMoney/static/js/3.21838a32.chunk.js",
+    "static/js/3.21838a32.chunk.js.map": "/spendAmbaniMoney/static/js/3.21838a32.chunk.js.map",
+    "index.html": "/spendAmbaniMoney/index.html",
+    "static/css/main.6f23844c.chunk.css.map": "/spendAmbaniMoney/static/css/main.6f23844c.chunk.css.map",
+    "static/js/2.af57b732.chunk.js.LICENSE.txt": "/spendAmbaniMoney/static/js/2.af57b732.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3db33879.js",
+    "static/js/2.af57b732.chunk.js",
+    "static/css/main.6f23844c.chunk.css",
+    "static/js/main.9a2cae4e.chunk.js"
+  ]
+}
