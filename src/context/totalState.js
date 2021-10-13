@@ -288,7 +288,7 @@ const TotalState = (props) => {
       const element = receitArray[i];
       if (element.name === name) {
         element.count += 1;
-      }
+      };
     }
   };
   const receitCountDncUpdater = (name) => {
@@ -296,7 +296,7 @@ const TotalState = (props) => {
       const element = receitArray[i];
       if (element.name === name) {
         element.count -= 1;
-      }
+      };
     }
   };
 

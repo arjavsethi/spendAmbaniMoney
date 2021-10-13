@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const Heading = (props) => {
     
@@ -10,6 +10,6 @@ const Heading = (props) => {
             approximately  $101,800,000,000(US Dollars) in his bank account.</p>
         </div>
     )
-}
+};
 
-export default Heading
+export default Heading;
