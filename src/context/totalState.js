@@ -281,7 +281,7 @@ const TotalState = (props) => {
       count: 0,
     },
   ];
-  const [receitArray, setreceitArray] = useState(initialreceitArray);
+  const [receitArray] = useState(initialreceitArray);
 
   const receitCountIncUpdater = (name) => {
     for (let i = 0; i < receitArray.length; i++) {
